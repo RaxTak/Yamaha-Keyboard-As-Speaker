@@ -5,3 +5,7 @@ How to use any Yamaha Keyboard as a speaker through MIDI.
 1. Disconnect all USB devices other than the mouse and keyboard from the computer.
 2. Download and run the "setup64.exe" for x64 architecture or "setup32.exe" for x86 architecture.
 3. Follow the on-screen instructions to install the software.
+4. Reboot your PC.
+
+# Post-Installation Setup
+After installtion just go to Settings and change output device to Yamaha under the "Sound" section.
