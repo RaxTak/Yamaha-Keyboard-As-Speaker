@@ -1,5 +1,5 @@
-# PSR-E363
-How to use Yamaha PSR-E363 as a speaker through MIDI.
+# Yamaha Keyboard As Speaker
+How to use any Yamaha Keyboard as a speaker through MIDI.
 
 # Installation
 1. Disconnect all USB devices other than the mouse and keyboard from the computer.
